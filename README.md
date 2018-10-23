@@ -1,4 +1,4 @@
-# webscraping-for-politicians-assets
+# Webscraping for Politicians Assets
 
 1. Method: 
 I use the tabula-py package in Python to extract information from these tables. Please notice that changing the default directory is very important. Otherwise, there might be some errors when importing the tabula package. I use to consult the author of the package about this issue. Moreover, sometimes there is an error because of the missing data. In this case, running the additional code manually.
